@@ -6,5 +6,6 @@
 - [Algorithms](/algorithms)
 - [Data Structures](/data-structures)
 - [Linux Shell](/linux-shell)
+- [Databases](/databases)
 
 ```Will be continuously updated.```
