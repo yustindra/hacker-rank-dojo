@@ -1,2 +1,0 @@
-# algorithms
-How things work
