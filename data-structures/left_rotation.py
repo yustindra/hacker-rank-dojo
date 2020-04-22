@@ -15,6 +15,5 @@ if __name__ == '__main__':
 
     a = list(map(int, input().rstrip().split()))
 
-    for i in range(d):
-        a = a[1:] + [a[0]]
-    print (*a)
+    x = (n+d)%n
+    print (*(a[x:] + a[0:x]))
