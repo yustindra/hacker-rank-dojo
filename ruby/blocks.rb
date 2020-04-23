@@ -4,5 +4,5 @@ end
 
 n = gets.to_i
 factorial do 
-    puts (1..n).inject(1) {|product, n| product * n }
+    puts (1..n).inject(:*)
 end
