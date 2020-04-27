@@ -7,5 +7,6 @@
 - [Data Structures](/data-structures)
 - [Linux Shell](/linux-shell)
 - [Interview Preparation Kit](/interview-preparation-kit)
+- [Ruby](/ruby)
 
 ```Will be continuously updated.```
