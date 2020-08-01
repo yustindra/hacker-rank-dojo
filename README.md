@@ -1,8 +1,9 @@
-# HackerRank Dojo
+# Codebits Dojo
 
-> My submissions on HackerRank. Started April 1st 2020, tackling one bit at a time.
+> Started April 1st 2020, tackling one bit at a time.
 
 ## Sections
+- [Leetcode](/leetcode)
 - [Algorithms](/algorithms)
 - [Data Structures](/data-structures)
 - [Linux Shell](/linux-shell)
